@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I’m Himanshu Sharma (himanshuXsh)
+👀 Interests
+I'm interested in:
 
-<!--
-**himanshuXsh/himanshuXsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning & Deep Learning
 
-Here are some ideas to get you started:
+Computer Vision with OpenCV & MediaPipe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI-powered Web Apps
+
+Stock Market (Options Trading & Algo Trading)
+
+Python Automation & Data Analysis
+
+🌱 Currently Learning
+Data Structures & Algorithms in Python
+
+Docker & DevOps
+
+AI Tools (LangChain, Pydantic AI)
+
+Web Development (HTML, CSS, Flask)
+
+Excel + Python for Data Analysis
+
+💞️ Open to Collaborate On
+ML + Flask Projects
+
+Stock Market Prediction Tools
+
+EdTech or AgriTech-based AI applications
+
+OpenCV or MediaPipe apps
+
+📫 How to Reach Me
+
+GitHub: https://github.com/himanshuXsh
